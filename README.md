@@ -1,6 +1,8 @@
- Vigenère Cipher Program
+ Vigenère Cipher Program (Published 12/7/24)
 
 This is my C++ implementation of the Vigenère cipher, a method of encrypting and decrypting text using a keyword. The program processes only alphabetic characters, preserving case sensitivity, and skips over non-alphabetic characters without modifying them.
+
+Team Members: Nathaniel Craiu
 
 ---
 
